@@ -1,3 +1,4 @@
 Resolusi Dicky Ardianto Kedepan
   - Mengelola jadwal pribadi dengan teratur
   - Mengelola data pribadi dengan jelas
+  - Membuat data asisten
